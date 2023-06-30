@@ -1,5 +1,5 @@
 # DL for Healthcare
-Final Project Report in AI in Audio Course (Reichman University)
+Project Report in AI in Healthcare Course (Reichman University)
 by Idan Kashtan
 
 <img src="Liver_tumor.jpg" alt="Liver Tumor" width="400"/>
